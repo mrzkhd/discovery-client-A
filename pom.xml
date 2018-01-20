@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>capital.kian.mrz.demo</groupId>
-    <artifactId>discoveryclient</artifactId>
+    <artifactId>service_two</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>discoveryclient</name>
+    <name>service_two</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
